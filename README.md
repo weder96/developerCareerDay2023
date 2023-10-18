@@ -9,5 +9,5 @@
 
 ### Presentation English
 
-![Title Presentation EnUs](https://github.com/weder96/developerCareerDay2023/blob/main/assets/titleEnUs.png)
+![Title Presentation EnUs](https://github.com/weder96/developerCareerDay2023/blob/main/assets/titleEnUs2.png)
 
