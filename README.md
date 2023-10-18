@@ -1,25 +1,13 @@
-# JoinCommunity2023
+# DeveloperCareer Day 2023
 
 ### Presentation PDF
 
-[Presentation PDF +100](https://github.com/weder96/joinCommunity2023/blob/main/finalPresentation/join_community_2023_Presentation_Final.pdf)
+[Presentation PDF](https://github.com/weder96/developerCareerDay2023/blob/main/finalPresentationEnglish/DeveloperCareer%20Day_2023_Presentation_Final.pdf)
 
 
 ---------------------------------------------------------------------------------------------
 
-### Title Presentation English
+### Presentation English
 
-![Title Presentation EnUs](https://github.com/weder96/joinCommunity2023/blob/main/assets/titleEnUs.png)
+![Title Presentation EnUs](https://github.com/weder96/developerCareerDay2023/blob/main/assets/titleEnUs.png)
 
-
----------------------------------------------------------------------------------------------
-
-### Title Presentation Portuguese
-
-![Title Presentation EnUs](https://github.com/weder96/joinCommunity2023/blob/main/assets/titlePtBr.png)
-
-
-
-### Presentation PDF
-
-[Presentation PDF +150](https://github.com/weder96/joinCommunity2023/blob/main/presentation_join_community_2023.pdf)
